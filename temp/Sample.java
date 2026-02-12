@@ -1,32 +1,28 @@
-import java.util.*;
-
 class Solution {
-    public boolean isIsomorphic(String s, String t) {
-    	String pattern1 = getPattern(s);
-    	String pattern2 = getPattern(t);
-    	System.out.println(pattern1);
-    	System.out.println(pattern2);
-    	if( pattern1.equals(pattern2)){
-    	    return true;
-    	} else {
-    		return false;
-    	}
-    }
-    private String getPattern(String input) {
-    	HashMap<Character, Integer> map = new HashMap<>();
-    	ArrayList<Integer> arr = new  ArrayList<>();
-    	int index = 0;
-        System.out.println(map.toString());
-    	for(int i=0; i<input.length(); i++) {
-    		char ch = input.charAt(i);
-    		if(map.containsKey(ch)) {
-    			String.valueOf(map.get(ch));
-    		}else{
-    			map.put(ch, index);
-    			pattern = pattern + String.valueOf(map.get(ch));
-    			index++;
-    		}
-    	}
-    	return pattern;
+    public boolean isValidSudoku(char[][] board) {
+        boolean rows[][] = new boolean[9][9];
+        boolean cols[][] = new boolean[9][9];
+        boolean boxes[][] = new boolean[9][9];
+
+        int rc = board.length;
+        int cc = board[0].length;
+
+        for (int i = 0; i < rc; i++) {
+            for (int j = 0; j < cc; j++) {
+                int r = i;
+                int c = j;
+                if (board[i][j] == '.')
+                    continue;
+                int value = board[i][j] - 49;
+                int box_index = (r / 3) * 3 + (c / 3) + 1 - 1;
+                if (rows[r][value] || cols[c][value] || boxes[box_index][value])
+                    return false;
+                
+                rows[r][value] = true;
+                cols[c][value] = true;
+                boxes[box_index][value] = true;
+            }
+        }
+        return true;
     }
 }
