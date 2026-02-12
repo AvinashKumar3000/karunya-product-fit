@@ -33,7 +33,7 @@ import java.util.*;
 class Solution {
     public boolean isIsomorphic(String s, String t) {
     	if(s.length() != t.length())
-    		return true;
+    		return false;
     	int[] pattern1 = getPattern(s);
     	int[] pattern2 = getPattern(t);
     	
@@ -62,6 +62,7 @@ class Solution {
     	return pattern;
     }
 }
+
 
 ```
 
