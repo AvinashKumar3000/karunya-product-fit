@@ -367,3 +367,141 @@ Valid Sudoku
 1. container in most water	https://leetcode.com/problems/container-with-most-water/description/
 1. trapping rain water problem	https://leetcode.com/problems/trapping-rain-water/description/
 1. Longest histogram rectangle	https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+
+
+### JAVA TOPICS TO BE COVERED FOR INTERVIEW
+
+```bash
+
+Java Programming Roadmap – Topics in Order
+1. Introduction to Java
+2. History of Java
+3. Features of Java
+4. JDK, JRE, JVM
+5. Installing Java and Setting Path
+6. First Java Program
+7. Compilation and Execution Process
+8. Java Program Structure
+9. Comments in Java
+10. Keywords in Java
+11. Variables
+12. Data Types (Primitive and Non-Primitive)
+13. Type Casting (Implicit and Explicit)
+14. Operators
+15. Input using Scanner
+16. Output using System.out
+17. Control Statements
+18. if Statement
+19. if-else Statement
+20. else-if Ladder
+21. switch Statement
+22. Nested if
+23. for Loop
+24. while Loop
+25. do-while Loop
+26. Nested Loops
+27. break Statement
+28. continue Statement
+29. Arrays
+30. Single Dimensional Array
+31. Multi-Dimensional Array
+32. Array Traversal
+35. Methods
+36. Method Declaration and Definition
+37. Method Parameters
+38. Return Type
+39. Method Overloading
+40. Recursion
+41. Object Oriented Programming Concepts
+42. Class and Object
+43. Instance Variables
+44. Local Variables
+45. Static Variables
+46. Constructors
+47. Constructor Overloading
+48. this Keyword
+49. Object Creation
+51. Inheritance
+52. Types of Inheritance
+54. Method Overriding
+56. Polymorphism
+57. Compile-Time Polymorphism
+58. Runtime Polymorphism
+59. Encapsulation
+60. Access Modifiers
+61. Getter and Setter Methods
+62. Abstraction
+63. Abstract Class
+64. Interface
+65. Multiple Inheritance using Interface
+66. Default Methods in Interface
+67. Static Methods in Interface
+69. Packages
+70. Built-in Packages
+71. User-defined Packages
+72. import Keyword
+73. String
+74. String Class
+75. String Methods
+76. StringBuffer
+77. StringBuilder
+78. String vs StringBuffer vs StringBuilder
+80. Wrapper Classes
+81. Autoboxing
+82. Unboxing
+83. Exception Handling
+84. Types of Exceptions
+85. try-catch
+86. finally Block
+87. throw Keyword
+88. throws Keyword
+89. Custom Exceptions
+90. try-with-resources
+99. Collections Framework
+100. Collection Interface
+101. List Interface
+102. ArrayList
+103. LinkedList
+104. Vector
+105. Stack
+106. Set Interface
+107. HashSet
+108. LinkedHashSet
+109. TreeSet
+110. Queue Interface
+111. PriorityQueue
+112. Deque
+113. ArrayDeque
+114. Map Interface
+115. HashMap
+116. LinkedHashMap
+117. TreeMap
+118. Hashtable
+119. Comparable Interface
+120. Comparator Interface
+121. Iterator
+122. ListIterator
+123. Collections Utility Class
+
+129. Multithreading
+130. Thread Class
+131. Runnable Interface
+132. Thread Lifecycle
+133. Thread Methods
+134. Synchronization
+135. Inter-thread Communication
+136. Thread Pool
+
+141. Lambda Expressions
+142. Functional Interfaces
+
+151. Inner Classes
+152. Member Inner Class
+153. Static Nested Class
+154. Local Inner Class
+155. Anonymous Inner Class
+
+159. JDBC*
+160. JDBC Architecture
+
+```
