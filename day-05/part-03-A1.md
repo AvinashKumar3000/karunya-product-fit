@@ -56,3 +56,5 @@ LC_EXPLAINATION:
     water = water + (lm - h[l])
     water = water + (rm - h[r])
 ```
+
+:::image type="content" source="trapping.png" alt-text="trapping rain water explanation":::
