@@ -505,3 +505,197 @@ Java Programming Roadmap – Topics in Order
 160. JDBC Architecture
 
 ```
+### python topics 
+
+```bash
+Python Programming Roadmap – Topics in Order
+1. Introduction to Python
+2. History of Python
+3. Features of Python
+4. Installing Python
+5. Python Interpreter
+6. Running Python Script
+7. Python IDEs
+8. Comments in Python
+9. Keywords in Python
+10. Variables
+11. Naming Conventions
+12. Data Types
+13. Type Checking
+14. Type Casting
+15. Input Function
+16. Print Function
+17. Operators
+18. Arithmetic Operators
+19. Comparison Operators
+20. Logical Operators
+21. Assignment Operators
+22. Bitwise Operators
+23. Membership Operators
+24. Identity Operators
+25. Control Statements
+26. if Statement
+27. if-else Statement
+28. elif Ladder
+29. Nested if
+30. match-case (Python 3.10+)
+31. Loops
+32. for Loop
+33. while Loop
+34. Nested Loops
+35. break
+36. continue
+37. pass
+38. Strings
+39. String Methods
+40. String Slicing
+41. String Formatting
+42. f-strings
+43. Escape Characters
+44. Lists
+45. List Methods
+46. List Slicing
+47. List Comprehension
+48. Nested Lists
+49. Tuples
+50. Tuple Methods
+51. Packing and Unpacking
+52. Sets
+53. Set Methods
+54. Frozen Set
+55. Dictionaries
+56. Dictionary Methods
+57. Nested Dictionaries
+58. Dictionary Comprehension
+59. Functions
+60. Defining Functions
+61. Parameters and Arguments
+62. Default Arguments
+63. Keyword Arguments
+64. Variable Length Arguments (*args, **kwargs)
+65. Return Statement
+66. Lambda Functions*
+67. Recursion
+68. Docstrings*
+69. Modules
+70. Import Statement
+71. from-import
+72. Built-in Modules
+73. Creating Custom Modules
+74. **name** == "**main**"
+75. Packages
+76. Creating Packages
+77. **init**.py
+78. Object Oriented Programming
+79. Class and Object
+80. Attributes
+81. Methods
+82. Constructor (**init**)
+83. Instance Variables
+84. Class Variables
+85. self Keyword
+86. Inheritance
+87. Types of Inheritance
+88. Method Overriding
+89. super()
+90. Polymorphism
+91. Duck Typing*
+92. Method Overloading Concept
+93. Operator Overloading
+94. Encapsulation
+95. Access Modifiers Convention
+96. Getters and Setters
+97. Property Decorator
+98. Abstraction
+99. Abstract Base Classes
+100. abc Module
+101. Exception Handling
+102. Types of Exceptions
+103. try-except
+104. else Block
+105. finally Block
+106. raise Statement
+107. Custom Exceptions
+108. File Handling
+109. Opening Files
+110. Reading Files
+111. Writing Files
+112. Appending Files
+113. with Statement
+114. Python Standard Library
+115. math Module
+116. random Module
+117. datetime Module
+118. os Module
+119. sys Module
+120. shutil Module*
+121. re Module
+122. Regular Expressions
+123. Pattern Matching
+124. re Functions
+125. Iterators
+126. Iterable Objects
+127. Custom Iterators
+
+131. Decorators
+132. Function Decorators
+133. Class Decorators
+134. functools Module
+
+138. Virtual Environment
+139. venv
+140. pip
+141. requirements.txt
+
+151. pickle
+152. json Module
+
+## other python topics
+
+153. Multithreading
+154. threading Module
+155. Thread Lifecycle
+156. Synchronization
+158. Multiprocessing
+159. multiprocessing Module
+160. Process Pool
+161. Asynchronous Programming
+162. asyncio
+163. async and await
+165. Networking
+166. socket Module
+167. HTTP Requests
+168. Database Programming
+169. sqlite3
+170. MySQL Connector
+171. PostgreSQL Connector
+172. ORM Basics
+173. Web Development
+174. Flask
+175. Django
+176. FastAPI
+177. REST API Development
+178. API Routing
+179. Request and Response Handling
+180. Authentication
+181. Data Analysis
+182. NumPy
+183. Pandas
+184. Matplotlib
+185. Seaborn
+186. Machine Learning Basics
+187. Scikit-learn
+188. Model Training
+189. Model Evaluation
+190. Deep Learning Basics
+191. TensorFlow
+192. PyTorch
+193. Packaging and Distribution
+194. setup.py
+195. wheel
+196. Type Hints
+197. typing Module
+198. mypy
+210. Garbage Collection
+
+```
