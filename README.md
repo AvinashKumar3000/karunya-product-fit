@@ -699,3 +699,204 @@ Python Programming Roadmap – Topics in Order
 210. Garbage Collection
 
 ```
+
+### DSA TOPICS 
+
+```bash
+Data Structures and Algorithms Roadmap – Topics in Order
+1. Introduction to Data Structures
+2. Introduction to Algorithms
+3. Time Complexity
+4. Space Complexity
+5. Asymptotic Notations
+6. Big O Notation
+7. Big Omega Notation
+8. Big Theta Notation
+9. Best Case, Average Case, Worst Case
+10. Recursion
+11. Recursive Tree
+12. Tail Recursion
+13. Backtracking Basics
+14. Arrays
+15. Array Traversal
+16. Insertion in Array
+17. Deletion in Array
+18. Searching in Array
+19. Sorting Basics
+20. Prefix Sum
+21. Two Pointer Technique
+22. Sliding Window
+23. Kadane’s Algorithm
+24. Moore’s Voting Algorithm
+25. Strings
+26. String Manipulation
+27. Pattern Matching
+28. Rabin-Karp Algorithm
+29. KMP Algorithm
+30. Z Algorithm
+31. Manacher’s Algorithm
+32. Linked List
+33. Singly Linked List
+34. Doubly Linked List
+35. Circular Linked List
+36. Reverse Linked List
+37. Detect Cycle
+38. Fast and Slow Pointer Technique
+39. Stack
+40. Stack Implementation
+41. Applications of Stack
+42. Infix, Prefix, Postfix
+43. Monotonic Stack
+44. Next Greater Element
+45. Largest Rectangle in Histogram
+46. Queue
+47. Queue Implementation
+48. Circular Queue
+49. Deque
+50. Priority Queue
+51. Monotonic Queue
+52. Hashing
+53. Hash Functions
+54. Collision Handling
+55. HashMap
+56. HashSet
+57. Frequency Counting
+58. Recursion and Backtracking
+59. Subsets
+60. Permutations
+61. Combination Sum
+62. N Queens
+63. Sudoku Solver
+64. Sorting Algorithms
+65. Bubble Sort
+66. Selection Sort
+67. Insertion Sort
+68. Merge Sort
+69. Quick Sort
+70. Heap Sort
+71. Counting Sort ( extra )
+72. Radix Sort ( extra )
+73. Bucket Sort ( extra )
+74. Searching Algorithms
+75. Linear Search
+76. Binary Search
+77. Binary Search Variations 
+78. Ternary Search ( extra )
+79. Divide and Conquer
+80. Merge Technique
+81. Quick Select
+82. Greedy Algorithms
+83. Activity Selection ( extra )
+84. Fractional Knapsack 
+85. Huffman Coding
+86. Interval Scheduling
+87. Job Sequencing
+88. Bit Manipulation
+89. Bitwise Operations
+90. Power of Two
+91. XOR Properties
+92. Subsets using Bitmask
+93. Brian Kernighan Algorithm
+94. Mathematics for DSA
+95. GCD and LCM
+96. Sieve of Eratosthenes
+97. Modular Arithmetic
+98. Fast Exponentiation
+99. Combinatorics Basics
+100. Trees
+101. Binary Tree
+102. Tree Traversals
+103. Height and Depth
+104. Diameter of Tree
+105. Lowest Common Ancestor
+106. Binary Search Tree
+107. Insert and Delete in BST
+108. Balanced Trees Concept
+109. Advanced Trees
+110. AVL Tree
+111. Red Black Tree ( extra )
+112. Segment Tree ( extra )
+113. Fenwick Tree ( extra )
+114. Trie ( extra )
+115. Suffix Tree ( extra )
+116. Heap 
+117. Min Heap
+118. Max Heap
+119. Heap Operations
+120. Heap Applications
+121. Graphs
+122. Graph Representation
+123. BFS
+124. DFS
+125. Topological Sort (important advance topic)
+126. Cycle Detection
+127. Bipartite Graph ( extra )
+128. Connected Components ( extra )
+129. Shortest Path Algorithms
+130. Dijkstra Algorithm
+131. Bellman Ford
+132. Floyd Warshall
+133. 0-1 BFS
+134. Minimum Spanning Tree
+135. Kruskal Algorithm
+136. Prim Algorithm
+137. Disjoint Set Union ( extra )
+138. Union by Rank ( extra )
+139. Path Compression ( extra )
+140. Strongly Connected Components ( extra )
+141. Kosaraju Algorithm ( extra )
+142. Tarjan Algorithm ( extra )
+143. Dynamic Programming
+144. DP Basics
+145. Memoization
+146. Tabulation
+147. 1D DP
+148. 2D DP
+149. Knapsack Problem
+150. Longest Common Subsequence
+151. Longest Increasing Subsequence
+152. Matrix Chain Multiplication
+153. DP on Trees
+154. DP on Graphs
+155. Bitmask DP ( extra )
+156. Advanced Techniques ( extra )
+157. Meet in the Middle ( extra )
+158. Mo’s Algorithm ( extra )
+159. Sliding Window Maximum 
+160. Convex Hull Trick ( extra )
+161. Computational Geometry ( extra )
+162. Line Sweep ( extra )
+163. Convex Hull ( extra )
+164. Orientation of Points ( extra )
+165. String Advanced Topics 
+166. Rolling Hash ( extra )
+167. Suffix Array 
+168. Aho-Corasick Algorithm ( extra )
+169. Game Theory Basics
+170. Nim Game
+171. Grundy Numbers
+
+## OTHER EXTRA AND ADVANCED TOPIC
+
+172. Advanced Graph Topics
+173. Network Flow
+174. Ford Fulkerson
+175. Edmonds Karp
+176. Dinic Algorithm
+177. Bipartite Matching
+178. Advanced Data Structures
+179. Sparse Table
+180. Order Statistic Tree
+181. Persistent Data Structures
+182. Complexity Analysis Advanced
+183. Amortized Analysis
+184. Master Theorem
+185. Competitive Programming Techniques
+186. Input Output Optimization
+187. Precomputation
+188. Coordinate Compression
+189. Binary Lifting
+190. System Design Basics for DSA
+191. Scalability Basics
+192. Caching Concepts
+```
