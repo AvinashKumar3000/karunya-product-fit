@@ -57,4 +57,4 @@ LC_EXPLAINATION:
     water = water + (rm - h[r])
 ```
 
-:::image type="content" source="trapping.png" alt-text="trapping rain water explanation":::
+<img src="./trapping.png" alt="trapping rain water explanation"/>
