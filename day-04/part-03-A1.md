@@ -56,30 +56,25 @@ import java.util.*;
 class Solution {
     public String simplifyPath(String path) {
         Stack<String> stack = new Stack<>();
-        
         // Split by "/"
         String[] parts = path.split("/");
-        
         for (String part : parts) {
-            
             if (part.equals("") || part.equals(".")) {
                 continue;  // Ignore empty and current directory
             }
-            
             else if (part.equals("..")) {
                 if (!stack.isEmpty()) {
                     stack.pop();  // Go back one directory
                 }
             }
-            
             else {
                 stack.push(part);  // Normal directory
             }
         }
-        
+
         // Build final path
         StringBuilder result = new StringBuilder();
-        
+
         for (String dir : stack) {
             result.append("/").append(dir);
         }
